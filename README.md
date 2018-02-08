@@ -1,3 +1,5 @@
+[codepen linki](https://codepen.io/by-Meftunca/pen/QQdWyz)
+
 ## Collapse kullanımı
 Başlamadan önce collapse hakkında bilmeniz gereken iki öznitelik var,
 - Tetikleyici kimliğini tanıtmanız için `data-href` ve `class="collapse-toggle"`
