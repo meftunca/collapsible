@@ -4,7 +4,7 @@
 Başlamadan önce collapse hakkında bilmeniz gereken iki öznitelik var,
 - Tetikleyici kimliğini tanıtmanız için `data-href` ve `class="collapse-toggle"`
 - Collapse yapısı için `data-id` ve `class="collapse-content"`
-bu iki öz nitelik collapse yapanızı çalışmasını sağlayacak.
+bu iki öznitelik collapse yapınızın çalışmasını sağlayacak.
 
 ```html
  <a href="#!" data-collapse="default" data-href="d3" class="collapse-toggle">collapse</a>
